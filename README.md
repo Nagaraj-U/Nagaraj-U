@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nagaraj-U&color=green)
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Nagaraj-U&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height = "200" width = "700" align="left">
+<img src = "https://github-readme-stats.vercel.app/api?username=Nagaraj-U&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height = "160" width = "600" align="left">
