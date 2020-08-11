@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently learning Bigdata Analytics, deep learning, website and app development.
+- 💬 Ask me about full stack development, machine learning 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nagaraj-U&color=green)
 
