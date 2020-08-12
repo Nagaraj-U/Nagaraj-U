@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraj-U&layout=compact" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraj-U&layout=compact)](https://github.com/Nagaraj-U/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraj-U&layout=compact)](https://github.com/Nagaraj-U/github-readme-stats)
+-->
