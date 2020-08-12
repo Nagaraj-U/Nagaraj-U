@@ -19,9 +19,12 @@ Here are some ideas to get you started:
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nagaraj-U&color=green)
 
-![Nagaraj's github stats](https://github-readme-stats.vercel.app/api?username=Nagaraj-U&theme=default&show_icons=true&hide=contribs,issues&card_width=400)
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nagaraj-U&theme=default&show_icons=true&hide=contribs,issues&card_width=400" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraj-U&layout=compact" />
 
+
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraj-U&layout=compact)](https://github.com/Nagaraj-U/github-readme-stats)
+      ![Nagaraj's github stats](https://github-readme-stats.vercel.app/api?username=Nagaraj-U&theme=default&show_icons=true&hide=contribs,issues&card_width=400)
 -->
