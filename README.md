@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<hr></hr>
 <!--
 **Nagaraj-U/Nagaraj-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<ul>
  <strong>About Me</strong>
+<ul>
  <li>MERN stack developer</li>
  <li>Intern At Coding Ninjas</li>
  <li>Datascience and Machine learning enthusiast</li>
  <li> I’m currently working on projects related to Bigdata Analytics, Deep learning, Web and App development</li>
- <li></li>
 </ul>
 
  <hr></hr>
+ 
+  <strong>Tech : </strong>
 <ul>
-      <strong>Tech : </strong>
+     
 <li>Languages - <strong> C++, Python, HTML, CSS, JavaScript </strong></li>
 <li>Frameworks/Libraries - <strong>ExpressJS,NodeJS,Bootstrap,ReactJS,REST API,Flutter</strong></li>
 <li>Databases - <strong>MongoDB,MYSQL,Firebase</strong></li>
