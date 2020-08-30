@@ -14,8 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on projects related to Bigdata Analytics, deep learning, website and app development.
-- 💬 Ask me about full stack development, machine learning 
+
+
+<ul>
+ <strong>About Me</strong>
+ <li>MERN stack developer</li>
+ <li>Intern At Coding Ninjas</li>
+ <li>Datascience and Machine learning enthusiast</li>
+ <li> I’m currently working on projects related to Bigdata Analytics, Deep learning, Web and App development</li>
+ <li></li>
+</ul>
 
  
 <ul>
