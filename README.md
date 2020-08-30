@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on projects related to Bigdata Analytics, deep learning, website and app development.
 - 💬 Ask me about full stack development, machine learning 
 
+Tech : 
+Languages - C++, Python, HTML, CSS, JavaScript
+
 ![Profile views](https://komarev.com/ghpvc/?username=Nagaraj-U&color=green)
 
 
