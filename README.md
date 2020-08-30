@@ -2,7 +2,9 @@
 
 
 <hr></hr>
+
  <strong>About Me</strong>
+ 
 <ul>
  
  <li>MERN stack developer</li>
@@ -14,6 +16,7 @@
  <hr></hr>
  
   <strong>Tech : </strong>
+  
 <ul>
      
 <li>Languages - <strong> C++, Python, HTML, CSS, JavaScript </strong></li>
