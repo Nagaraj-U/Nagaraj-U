@@ -17,12 +17,17 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on projects related to Bigdata Analytics, deep learning, website and app development.
 - 💬 Ask me about full stack development, machine learning 
 
-Tech : 
-<li>stack</li>
-Languages - C++, Python, HTML, CSS, JavaScript 
-Frameworks/Libraries - ExpressJS,NodeJS,Bootstrap,ReactJS,REST API,Flutter
-Databases - MongoDB,MYSQL,Firebase
-Tools - VS Code,Git,Github,chrome developer tools,Androidstudio
+ 
+<ul>
+      <strong>Tech : </strong>
+<li>Languages - <strong> C++, Python, HTML, CSS, JavaScript </strong></li>
+<li>Frameworks/Libraries - <strong>ExpressJS,NodeJS,Bootstrap,ReactJS,REST API,Flutter</strong></li>
+<li>Databases - <strong>MongoDB,MYSQL,Firebase</strong></li>
+<li>Tools - <strong>VS Code,Git,Github,chrome developer tools,Androidstudio</strong></li>
+</ul>
+ 
+
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nagaraj-U&color=green)
 
