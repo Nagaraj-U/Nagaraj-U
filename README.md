@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  <li></li>
 </ul>
 
- 
+ <hr></hr>
 <ul>
       <strong>Tech : </strong>
 <li>Languages - <strong> C++, Python, HTML, CSS, JavaScript </strong></li>
