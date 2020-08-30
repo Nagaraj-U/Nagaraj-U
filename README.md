@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about full stack development, machine learning 
 
 Tech : 
+<li>stack</li>
 Languages - C++, Python, HTML, CSS, JavaScript 
 Frameworks/Libraries - ExpressJS,NodeJS,Bootstrap,ReactJS,REST API,Flutter
 Databases - MongoDB,MYSQL,Firebase
