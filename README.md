@@ -1,8 +1,9 @@
-### Hello there! 👋
+### Hello there! 👋                                             ![Profile views](https://komarev.com/ghpvc/?username=Nagaraj-U&color=green)
 
 
 <hr></hr>
  <strong>About Me</strong>
+ 
 <ul>
  <li>MERN stack developer</li>
  <li>Intern At Coding Ninjas</li>
@@ -24,7 +25,7 @@
 
 
 
-![Profile views](https://komarev.com/ghpvc/?username=Nagaraj-U&color=green)
+<hr></hr>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nagaraj-U&theme=default&show_icons=true&hide=contribs,issues&card_width=400" />
