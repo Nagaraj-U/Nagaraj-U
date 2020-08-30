@@ -29,8 +29,8 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nagaraj-U&theme=ayu-mirage&show_icons=true&hide=contribs,issues&card_width=400" />
-<img align="right" height="150" width = "300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraj-U&layout=compact" />
-https://profile-summary-for-github.com/user/Nagaraj-U
+<img align="right" height="150" width = "300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraj-U&layout=compact&hide=jupyter%20notebook" />
+
 ![Profile views](https://komarev.com/ghpvc/?username=Nagaraj-U&color=green)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraj-U&layout=compact)](https://github.com/Nagaraj-U/github-readme-stats)
