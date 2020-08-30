@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about full stack development, machine learning 
 
 Tech : 
-Languages - C++, Python, HTML, CSS, JavaScript
+Languages - C++, Python, HTML, CSS, JavaScript 
+Frameworks/Libraries - ExpressJS,NodeJS,Bootstrap,ReactJS,REST API,Flutter
+Databases - MongoDB,MYSQL,Firebase
+Tools - VS Code,Git,Github,chrome developer tools,Androidstudio
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nagaraj-U&color=green)
 
