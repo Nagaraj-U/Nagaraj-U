@@ -3,14 +3,14 @@
 
 <hr></hr>
 
- <strong>About Me</strong>
+ <strong>About Me : </strong>
  
 <ul>
  
- <li>MERN stack developer</li>
- <li>Intern At Coding Ninjas</li>
- <li>Datascience and Machine learning enthusiast</li>
- <li> I’m currently working on projects related to Bigdata Analytics, Deep learning, Web and App development</li>
+ <li>MERN stack Developer</li>
+ <li>Intern At Coding Ninjas India</li>
+ <li>Datascience and Machine Learning Enthusiast</li>
+ <li>Currently working on projects related to Bigdata Analytics, Deep learning, Web and App Development</li>
 </ul>
 
  <hr></hr>
@@ -20,9 +20,9 @@
 <ul>
      
 <li>Languages - <strong> C++, Python, HTML, CSS, JavaScript </strong></li>
-<li>Frameworks/Libraries - <strong>ExpressJS,NodeJS,Bootstrap,ReactJS,REST API,Flutter</strong></li>
-<li>Databases - <strong>MongoDB,MYSQL,Firebase</strong></li>
-<li>Tools - <strong>VS Code,Git,Github,chrome developer tools,Androidstudio</strong></li>
+<li>Frameworks/Libraries - <strong>ExpressJS, NodeJS, Bootstrap, ReactJS, REST API, Flutter, JQuery</strong></li>
+<li>Databases - <strong>MongoDB, MYSQL, Firebase</strong></li>
+<li>Tools - <strong>VS Code, Git, Github, Chrome Developer Tools,Androidstudio</strong></li>
 </ul>
  
 
@@ -33,7 +33,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nagaraj-U&theme=default&show_icons=true&hide=contribs,issues&card_width=400" />
 <img align="right" height="150" width = "300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraj-U&layout=compact&hide=jupyter%20notebook" />
-
+<br></br>
 ![Profile views](https://komarev.com/ghpvc/?username=Nagaraj-U&color=green)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraj-U&layout=compact)](https://github.com/Nagaraj-U/github-readme-stats)
