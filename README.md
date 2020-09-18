@@ -11,6 +11,7 @@
  <li>Intern At Coding Ninjas India</li>
  <li>Datascience and Machine Learning Enthusiast</li>
  <li>Currently working on projects related to Bigdata Analytics, Deep learning, Web and App Development</li>
+ <li><a href= " https://nagaraj-u.github.io/My-Portfolio/"> </li>
 </ul>
 
  <hr></hr>
