@@ -20,10 +20,10 @@
   
 <ul>
      
-<li>Languages - <strong> C++, Python, HTML, CSS, JavaScript, Dart </strong></li>
-<li>Frameworks/Libraries - <strong>ExpressJS, NodeJS, Bootstrap, ReactJS, REST API, Flutter, JQuery, Scrapy</strong></li>
-<li>Databases - <strong>MongoDB, MYSQL, Firebase</strong></li>
-<li>Tools - <strong>VS Code, Git, Github, Chrome Developer Tools, Androidstudio, Tableau</strong></li>
+<li>Languages - <strong> C++, Python, HTML, CSS, JavaScript, Dart.</strong></li>
+<li>Frameworks/Libraries - <strong>ExpressJS, NodeJS, Bootstrap, ReactJS, REST API, Flutter, JQuery, Scrapy.</strong></li>
+<li>Databases - <strong>MongoDB, MYSQL, Firebase.</strong></li>
+<li>Tools - <strong>VS Code, Git, Github, Chrome Developer Tools, Androidstudio, Tableau.</strong></li>
 </ul>
  
 
