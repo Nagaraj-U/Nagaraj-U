@@ -9,6 +9,7 @@
  
  <li>MERN stack Developer</li>
  <li>Intern At Coding Ninjas India</li>
+ <li>App Developer ( Flutter ) </li>
  <li>Datascience and Machine Learning Enthusiast</li>
  <li>Currently working on projects related to Data Analytics, Web and App Development</li>
 
