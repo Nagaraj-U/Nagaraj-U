@@ -34,7 +34,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nagaraj-U&theme=dark)](https://git.io/streak-stats)
 
-![Nagaraj's github stats](https://github-readme-stats.vercel.app/api?username=Nagaraj-U&theme=default&show_icons=true&hide=contribs,issues&card_width=400)
+![Nagaraj's github stats](https://github-readme-stats.vercel.app/api?username=Nagaraj-U&theme=dark&show_icons=true&hide=contribs,issues&card_width=400)
 
 <br></br>
 
