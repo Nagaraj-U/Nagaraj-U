@@ -34,7 +34,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nagaraj-U&theme=dark)](https://git.io/streak-stats)
 <br></br>
-
 ![Profile views](https://komarev.com/ghpvc/?username=Nagaraj-U&color=green)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraj-U&layout=compact)](https://github.com/Nagaraj-U/github-readme-stats)
