@@ -35,6 +35,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nagaraj-U&theme=default&show_icons=true&hide=contribs,issues&card_width=400" />
 <img align="right" height="150" width = "300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraj-U&layout=compact" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nagaraj-U)](https://git.io/streak-stats)
+
 <br></br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nagaraj-U&color=green)
