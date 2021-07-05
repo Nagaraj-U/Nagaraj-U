@@ -32,15 +32,9 @@
 
 <hr></hr>
 
-
-<img height="400" width = "450" src="https://github-readme-stats.vercel.app/api?username=Nagaraj-U&theme=default&show_icons=true&hide=contribs,issues&card_width=450" />
-<!-- <img align="right" height="150" width = "300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraj-U&layout=compact" /> -->
-
-<img height="200" width = "400" src="http://github-readme-streak-stats.herokuapp.com?user=Nagaraj-U&theme=default)](https://git.io/streak-stats" />
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nagaraj-U&theme=dark)](https://git.io/streak-stats)
 
- ![Nagaraj's github stats](https://github-readme-stats.vercel.app/api?username=Nagaraj-U&theme=default&show_icons=true&hide=contribs,issues&card_width=400)
+![Nagaraj's github stats](https://github-readme-stats.vercel.app/api?username=Nagaraj-U&theme=default&show_icons=true&hide=contribs,issues&card_width=400)
 
 <br></br>
 
