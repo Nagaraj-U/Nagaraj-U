@@ -38,7 +38,7 @@
 
 <img height="200" width = "400" src="http://github-readme-streak-stats.herokuapp.com?user=Nagaraj-U&theme=default)](https://git.io/streak-stats" />
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nagaraj-U&theme=dark)](https://git.io/streak-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nagaraj-U&theme=dark)](https://git.io/streak-stats)
 
 <br></br>
 
