@@ -6,8 +6,8 @@
  <strong>About Me : </strong>
  
 <ul>
-  <li>MERN stack Developer</li>
- <li>App Developer ( Flutter ) </li>
+  <li>Fullstack Developer (Go, NodeJs, ReactJs MongoDB, Cassandra)</li>
+ <li>App Developer (ReactNative, Flutter) </li>
  <li>Datascience and Machine Learning Enthusiast</li>
 </ul>
 
@@ -17,9 +17,9 @@
   
 <ul>
      
-<li>Languages - <strong> C++, Python, HTML, CSS, JavaScript, Dart</strong></li>
-<li>Frameworks/Libraries - <strong>ExpressJS, NodeJS, Bootstrap, ReactJS, REST API, Flutter, JQuery, Scrapy</strong></li>
-<li>Databases - <strong>MongoDB, MYSQL, Firebase</strong></li>
+<li>Languages - <strong> Go, Java, C++, Python, JavaScript, Dart</strong></li>
+<li>Frameworks/Libraries - <strong>ExpressJS, NodeJS, Bootstrap, ReactJS, ReactNative, Flutter,</strong></li>
+<li>Databases - <strong>Cassandra, MongoDB, MYSQL, Firebase</strong></li>
 <li>Tools - <strong>VS Code, Git, Github, Chrome Developer Tools, Androidstudio, Tableau </strong></li>
 </ul>
  
